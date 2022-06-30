@@ -4,3 +4,4 @@
 `3-name` is a script that compiles a C file and creates an executable named cisfun.
 `4-puts.c` is a program that prints a streams of characters
 `5-printf.c` prints a stream of characters
+`6-size.c` is a C program that prints the size of various types on the computer it is compiled and run on.
