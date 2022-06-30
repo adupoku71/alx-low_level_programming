@@ -5,3 +5,4 @@
 `4-puts.c` is a program that prints a streams of characters
 `5-printf.c` prints a stream of characters
 `6-size.c` is a C program that prints the size of various types on the computer it is compiled and run on.
+`100-intel` is a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
