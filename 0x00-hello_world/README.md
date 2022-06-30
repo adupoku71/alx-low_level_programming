@@ -3,3 +3,4 @@
 `2-assembler` is a script that generates the assembly code of a C code and save it in an output file.
 `3-name` is a script that compiles a C file and creates an executable named cisfun.
 `4-puts.c` is a program that prints a streams of characters
+`5-printf.c` prints a stream of characters
