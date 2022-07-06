@@ -1,4 +1,8 @@
 #include "main.h"
+/**
+ * print_alphabet_x10 - prints alphabets 10 times
+ * Return: nothing void function
+ */
 
 void print_alphabet_x10(void)
 {
@@ -16,10 +20,4 @@ void print_alphabet_x10(void)
 		_putchar('\n');
 		i++;
 	}
-}
-
-int main(void)
-{
-	print_alphabet_x10();
-	return (0);
 }
