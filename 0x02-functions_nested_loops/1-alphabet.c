@@ -1,4 +1,8 @@
 #include "main.h"
+/**
+ * print_alphabet - prints all alphabets in lower cases
+ * Return: returns nothing
+ */
 
 void print_alphabet(void)
 {
@@ -10,10 +14,4 @@ void print_alphabet(void)
 		c++;
 	}
 	_putchar('\n');
-}
-
-int main(void)
-{
-	print_alphabet();
-	return (0);
 }
