@@ -1,6 +1,6 @@
 /*
  * File: 0-read_textfile.c
- * Auth: CrystalBolaa
+ * Auth: ADUPOKU
  */
 
 #include <fcntl.h>
